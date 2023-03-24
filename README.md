@@ -1,6 +1,6 @@
 ## Hi there / Olá! Eu sou o João Victor!👋
 - Atualmente busco melhorar minhas skills e usar isso no meu dia-a-dia, ou no trabalho.
-- Aluno (ADS) no SENAI Suíço-Brasileiro "Paulo Ernesto Tolle"
+- Formando de Análise e Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro "Paulo Ernesto Tolle"
 
  <a href="https://github.com/odrelvic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odrelvic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=18px"/>
